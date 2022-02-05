@@ -148,3 +148,6 @@ et voici le signal détecté sur le signal de départ:
 
 On Conclure que Le résultat de xcorr peut être interprété comme une estimation de la corrélation entre deux séquences aléatoires ou comme la corrélation déterministe entre deux signaux déterministes.
 
+FIN.
+
+realisée par RACHID SAKASSA/ BADR-EDDINE BENZEMROUN
