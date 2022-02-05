@@ -146,5 +146,5 @@ et voici le signal détecté sur le signal de départ:
 ![image](https://user-images.githubusercontent.com/85129301/152624820-826829a3-8f17-461f-8ad6-cbdec1fa7f42.png)
 
 
-
+On Conclure que Le résultat de xcorr peut être interprété comme une estimation de la corrélation entre deux séquences aléatoires ou comme la corrélation déterministe entre deux signaux déterministes.
 
